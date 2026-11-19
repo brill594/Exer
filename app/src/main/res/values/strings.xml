@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">轻取件</string>
+    <string name="home_lead">用手机号在网页里登录，不用另外安装菜鸟、淘宝或拼多多。</string>
+    <string name="home_note">身份码由对应平台实时生成并会过期，到驿站后再打开，截图可能无法扫码。</string>
+    <string name="settings">设置</string>
+    <string name="appearance">外观</string>
+    <string name="appearance_desc">选择应用浅色或深色主题，在 Android 12 及以上支持动态壁纸取色。</string>
+    <string name="theme_system">跟随系统</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="login_section">网页数据</string>
+    <string name="clear_login">清除网页登录</string>
+    <string name="clear_login_body">退出各个取件页里已经登录的账号，下次打开需要重新登录。</string>
+    <string name="cleared">已清除</string>
+    <string name="version_label">版本 %1$s</string>
+    <string name="page_failed">页面暂时无法打开，请检查网络后重试。</string>
+    <string name="retry">重试</string>
+    <string name="refresh">刷新</string>
+    <string name="offline">当前没有网络</string>
+    <string name="stay_on_page">这个跳转需要别的应用，已留在当前网页</string>
+    <string name="back">返回</string>
+</resources>

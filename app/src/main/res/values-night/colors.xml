@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fallback M3 Dark Palette (overridden by Dynamic Color on Android 12+) -->
+    <color name="m3_primary">#80D5CE</color>
+    <color name="m3_on_primary">#003734</color>
+    <color name="m3_primary_container">#00504C</color>
+    <color name="m3_on_primary_container">#9CF1EA</color>
+    <color name="m3_secondary">#B0CCC9</color>
+    <color name="m3_on_secondary">#1B3533</color>
+    <color name="m3_secondary_container">#324B49</color>
+    <color name="m3_on_secondary_container">#CCE8E5</color>
+    <color name="m3_background">#0E1514</color>
+    <color name="m3_surface">#0E1514</color>
+    <color name="m3_surface_container_low">#161D1C</color>
+    <color name="m3_surface_container">#1A2120</color>
+    <color name="m3_surface_container_high">#252B2A</color>
+    <color name="m3_on_surface">#DDE4E2</color>
+    <color name="m3_on_surface_variant">#BEC9C7</color>
+    <color name="m3_outline">#889391</color>
+    <color name="m3_outline_variant">#3F4948</color>
+
+    <!-- Android 15 Settings-style Tonal Category Circles (Dark) -->
+    <color name="tone_cainiao_bg">#173B2B</color>
+    <color name="tone_cainiao_fg">#8CE9B5</color>
+    <color name="tone_taobao_bg">#42210D</color>
+    <color name="tone_taobao_fg">#FFBE94</color>
+    <color name="tone_agent_bg">#182F4F</color>
+    <color name="tone_agent_fg">#A3CAFF</color>
+    <color name="tone_pdd_bg">#461923</color>
+    <color name="tone_pdd_fg">#FFB2BE</color>
+</resources>
